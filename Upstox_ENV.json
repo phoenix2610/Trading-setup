@@ -1,0 +1,9 @@
+{
+    "upstox": {
+        "api_key": "",
+        "secret_api": "",
+        "access_token": "",
+        "expiry_date": "",
+        "totp_secret": ""
+    }
+}
